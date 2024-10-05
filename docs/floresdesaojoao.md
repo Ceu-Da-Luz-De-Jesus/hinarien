@@ -7,3 +7,6 @@ Den Text für Musiker findet ihr in der Datei [Flores_de_Sao_Joao_A5_Musicos_PT.
 
 ## Aufnahme
 Die Musik zum lernen könnt ihr in unserer [Spotify-Playlist anhören](https://open.spotify.com/playlist/5xgQ1urnlsce3WShnRo1ip?si=LI2sJ7HoTPCWmnvWFWBu3g&nd=1&dlsi=d72e5fc70cf442bf)
+
+
+![Kolibri](images/LOGO-BF-340px-300x300.png)
