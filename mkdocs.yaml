@@ -8,7 +8,7 @@ nav:
   - Home: index.md
   - Gesangbücher:
 	  - Christina Tati:
-		  - Flores de São João: floresdesaujoao.md
+		  - Flores de São João: floresdesaojoao.md
 theme:
   name: material
   language: en
