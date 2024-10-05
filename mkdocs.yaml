@@ -7,8 +7,8 @@ repo_url: https://github.com/Ceu-Da-Luz-De-Jesus/hinarien
 nav:
   - Home: index.md
   - Gesangbücher:
- 	 - Christina Tati:
-	  	- Flores de São João: floresdesaujoao.md
+	  - Christina Tati:
+		  - Flores de São João: floresdesaujoao.md
 theme:
   name: material
   language: en
