@@ -5,5 +5,6 @@
 
 
  ## Aufnahme
- Die Musik zum lernen könnt ihr hier finden [Estudo Fino - Nova Dimensão](https://estudofino.org/nova-dimensao)
- 
+ Die Musik zum lernen könnt ihr hier finden 
+* [Estudo Fino - Nova Dimensão - Mit Texte ](https://estudofino.org/nova-dimensao)
+* [Soundcloud Playlist - Alle hymnen] (https://on.soundcloud.com/86LUVtFdpB5tsE2DA)
