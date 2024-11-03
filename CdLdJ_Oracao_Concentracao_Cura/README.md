@@ -1,4 +1,4 @@
- # Ceu da Luz de Jesus - Oração - Concentração - Cura
+ # Ceu da Luz de Jesus - Oração - Concentração
 
  ## Hinario - Buchlein
  Den Text zum Singen findet ihr in der Datei [Concentracao _CdLdJ.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/blob/main/CdLdJ_Oracao_Concentracao_Cura/Concentracao%20_CdLdJ.pdf).
