@@ -1,7 +1,9 @@
  # Ceu da Luz de Jesus - Glauco - Chaveirinho / 
 
  ## Hinario - Buchlein
- Den Text zum Singen findet ihr in der Datei [Cura_Gesangbuch.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/blob/main/Cura/Cura_Gesangbuch.pdf).
+ Die Texte zum Singen findet ihr in die folgemde Dateie:
+[Glauco_Chaveirinho_Chaveirao.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/blob/main/Glauco/Glauco_Chaveirinho_Chaveirao.pdf)
+[Glauco - Hinos Extras](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/blob/main/Glauco/Glauco_Hinos_Extras.pdf)
 
 
  ## Aufnahme
