@@ -1,7 +1,9 @@
  # Mestre Irineu  - O Cruzeiro
 
  ## Hinario - Buchlein
- Den Text zum Singen findet ihr in der Datei [O Cruzeiro.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/blob/main/Mestre_Irineu/O_Cruzeiro.pdf).
+ Den Text zum Singen mit Englische übersetzung findet ihr in der Datei [O Cruzeiro.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/blob/main/Mestre_Irineu/O_Cruzeiro.pdf).
+
+ Den Text zum Singen in Portugiesisch findet ihr in der Datei [O Cruzeiro.pdf PT](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/blob/main/Mestre_Irineu/O_Cruzeiro_Mestre_Raimundo_Irineu_Serra.pdf)
 
 
  ## Aufnahme
