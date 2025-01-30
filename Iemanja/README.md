@@ -1,7 +1,7 @@
  # Iemanjá
 
  ## Hinario - Buchlein
- Den Text zum Singen findet ihr in der Datei [O Cruzeiro.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/blob/main/Iemanja/Iemanja.pdf).
+ Den Text zum Singen findet ihr in der Datei [Iemanja.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/blob/main/Iemanja/Iemanja.pdf).
 
 
  ## Aufnahme
