@@ -3,4 +3,4 @@ Liebe Brüder und Schwestern, herzlich willkommen in unserem Archiv für Gesangb
 
 Viel Freude beim Singen
 
-![Kolibri](images/LOGO-BF-340px-300x300.png)
+![Kolibri](images/bf.png)
