@@ -10,6 +10,12 @@ nav:
   - Gesangbücher:
       - Christina Tati:
           - Flores de São João: floresdesaojoao.md
+	  - Gesangbuchsammlungen:
+		  - Hinario de Santa Maria: santamaria.md
+		  - Cura: cura.md
+		  - Trabalho de São Miguel: trabalhosaomiguel.md
+		  - Oração - Concentração: oracaoconcentracao.md
+		  - Iemanjá: iemanja.md
 theme:
   name: material
   language: en
