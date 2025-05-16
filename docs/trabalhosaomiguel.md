@@ -2,7 +2,9 @@
 
 ## Hinario - Buchlein
 Die Texte zum Singen: 
+
 ### Ohne Oração
+
 **Englische Übersetzung**
 
 [Cura Sao Miguel Hymnal A5 EN.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/raw/main/Cura/Cura Sao Miguel Hymnal A5 EN.pdf) Zum Ausdrucken ist das Format DIN - A5. 
@@ -25,6 +27,7 @@ Die Texte zum Singen:
 
 
 **Den Text für Musiker findet ihr in der Datei**
+
 [Cura Sao Miguel Hymnal A5 m Oracao CHORDS.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/raw/main/Cura/Cura Sao Miguel Hymnal A5 m Oracao CHORDS.pdf). Zum Ausdrucken ist das Format DIN - A5. 
 
 
