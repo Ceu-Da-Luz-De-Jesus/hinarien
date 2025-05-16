@@ -5,5 +5,5 @@ Den Text zum Singen findet ihr in der Datei [Cura_Gesangbuch.pdf](https://github
 
 
 ## Aufnahme
-[YouTube: Cura teil 1](https://youtube.com/playlist?list=PLMDPwRXwEk20uau3cUwE7TeLN3lfz85Fw&si=gJqom37FGz168LhP)
-[YouTube: Cura teil 2](https://youtube.com/playlist?list=PLMDPwRXwEk21gNuTHH87zO829ThW6gRi5&si=GB0_o2u7RnjJKwhB)
+* [YouTube: Cura teil 1](https://youtube.com/playlist?list=PLMDPwRXwEk20uau3cUwE7TeLN3lfz85Fw&si=gJqom37FGz168LhP)
+* [YouTube: Cura teil 2](https://youtube.com/playlist?list=PLMDPwRXwEk21gNuTHH87zO829ThW6gRi5&si=GB0_o2u7RnjJKwhB)
