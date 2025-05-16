@@ -8,14 +8,18 @@ repo_url: https://github.com/Ceu-Da-Luz-De-Jesus/hinarien
 nav:
   - Home: index.md
   - Gesangbücher:
+      - Caparelli Nilton: caparelli.md
       - Christina Tati:
           - Flores de São João: floresdesaojoao.md
+      - Glauco Vilas Boas: glauco.md
+      - Padrinho Alfredo:
+          - Nova Dimensão: novadimensao.md
       - Gesangbuchsammlungen:
-          - Hinario de Santa Maria: santamaria.md
           - Cura: cura.md
-          - Trabalho de São Miguel: trabalhosaomiguel.md
-          - Oração - Concentração: oracaoconcentracao.md
           - Iemanjá: iemanja.md
+          - Hinario de Santa Maria: santamaria.md
+          - Oração - Concentração: oracaoconcentracao.md
+          - Trabalho de São Miguel: trabalhosaomiguel.md
 theme:
   name: material
   language: en
@@ -61,4 +65,4 @@ theme:
 
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/guescinr" target="_blank" rel="noopener">Rolf Guescini</a>
+  &copy; 2025 <a href="https://github.com/guescinr" target="_blank" rel="noopener">Rolf Guescini</a>
