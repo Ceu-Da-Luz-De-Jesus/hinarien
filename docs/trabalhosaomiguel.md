@@ -18,7 +18,7 @@ Die Texte zum Singen:
 ### Mit Oração
 **Englische Übersetzung**
 
-[Cura Sao Miguel Hymnal A5 w Oracao EN.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/raw/main/Cura/Cura Sao Miguel Hymnal A5 w Oracao EN.pdf) Zum Ausdrucken ist das Format DIN - A5. 
+[Cura Sao Miguel Hymnal A5 w Oracao EN.pdf](https://github.com/Ceu-Da-Luz-De-Jesus/hinarien/raw/main/Cura/Cura_Sao_Miguel_Hymnal_A5_w_Oracao_EN.pdf) Zum Ausdrucken ist das Format DIN - A5. 
 
 **Deutsche Übersetzung**
 
