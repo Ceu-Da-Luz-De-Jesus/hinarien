@@ -1,0 +1,19 @@
+Liturgical Translation Prompt Template  
+(Brazilian Portuguese → German)
+
+Please translate the following Brazilian Portuguese text into German, suitable for liturgical or devotional use.
+
+The translation should:
+– Maintain a balance between literal accuracy and gentle poetic flow.
+– Preserve the prayerful, sacred, and reverent tone of the original.
+– Convey gentle humility, spiritual depth, and inner sincerity.
+– Use natural, dignified German appropriate for hymns, prayers, or religious poetry.
+– Be suitable for spoken, sung, or meditative contexts.
+– Allow for interpretive flexibility to capture the spiritual meaning clearly, without being overly literal or overly poetic.
+
+If the text refers to:
+– The Virgin Mary: Use terms like „Jungfrau Mutter“ or „Muttergottes“ as appropriate.
+– Jesus Christ: Use „Erlöser“, „Heiland“, or „Herr Christus“ depending on tone.
+
+Text to be translated:  
+[Insert Brazilian Portuguese text here]
