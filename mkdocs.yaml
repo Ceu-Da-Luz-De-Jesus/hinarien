@@ -63,8 +63,3 @@ theme:
   - pymdownx.superfences
   - pymdownx.mark
   - attr_list
-
-
-
-copyright: |
-  &copy; 2025 <a href="https://github.com/guescinr" target="_blank" rel="noopener">Rolf Guescini</a>
